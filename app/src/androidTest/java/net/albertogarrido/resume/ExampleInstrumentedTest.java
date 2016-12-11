@@ -23,4 +23,6 @@ public class ExampleInstrumentedTest {
 
         assertEquals("net.albertogarrido.resume", appContext.getPackageName());
     }
+
+
 }
